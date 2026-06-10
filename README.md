@@ -47,10 +47,7 @@ Soy un estudiante de software de 5to semestre enfocado en el **desarrollado full
 <a href="https://github.com/Xmarcelo05/Xmarcelo05">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xmarcelo05&theme=github_dark&hide_border=true" alt="GitHub Stats Graph"/>
 </a>
-</div>
-
-<div align="center">
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xmarcelo05&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham)](https://github.com/Xmarcelo05)
 
 ---
@@ -58,28 +55,25 @@ Soy un estudiante de software de 5to semestre enfocado en el **desarrollado full
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
+</div>
 
 ---
 
 ## 🌐 Contáctame
-<div align="center">
 
+<div align="center">
 <a href="mailto:fremarbrapo@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>  <a href="https://www.linkedin.com/in/marcelo-bravo-a386a5328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>  <a href="https://www.instagram.com/xmarcelo_05/" target="_blank"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 <br>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
 
 ---
 
 <div align="center">
 
-### 🎵 ¡Gracias por visitar mi perfil!
+### ¡Gracias por visitar mi perfil!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Xmarcelo05.Xmarcelo05)
 
-
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 </div>
