@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Marcelo
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF&background=0A0E2700&center=true&vCenter=true&repeat=true&random=false&width=700&lines=Full+Stack+Developer+🚀;Tech+Enthusiast+💡;Always+Learning+🌱;Building+Amazing+Things+✨)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=35&center=true&vCenter=true&width=600&height=60&duration=2000&pause=1000&lines=Full+Stack+Developer+🚀;Tech+Enthusiast+💡;Always+Learning+🌱;Building+Amazing+Things+✨)
 
 </div>
 
