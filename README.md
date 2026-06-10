@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=06B6D4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning;Building+Amazing+Things)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF&background=0A0E2700&center=true&vCenter=true&repeat=true&random=false&width=700&lines=Full+Stack+Developer+🚀;Tech+Enthusiast+💡;Always+Learning+🌱;Building+Amazing+Things+✨)
 
 </div>
 
@@ -62,10 +62,10 @@ Soy un estudiante de software de 5to semestre enfocado en el **desarrollado full
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contáctame
 <div align="center">
 
-<a href="mailto:e1316890498@live.uleam.edu.ec"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>  <a href="https://www.linkedin.com/in/jork-lucas-158979325/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>  <a href="https://www.instagram.com/jork_lg03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>  <a href="https://github.com/JorkLucas03" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+<a href="mailto:fremarbrapo@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>  <a href="https://www.linkedin.com/in/marcelo-bravo-a386a5328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>  <a href="https://www.instagram.com/xmarcelo_05/" target="_blank"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 <br>
 
 
